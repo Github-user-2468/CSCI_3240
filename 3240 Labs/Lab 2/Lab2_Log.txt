@@ -1,0 +1,59 @@
+Script started on 2024-08-30 21:54:02-05:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="94" LINES="35"]
+[?2004h(base) ]0;jovyan@jupyter-kas2dq: ~/Lab2Problems[01;32mjovyan@jupyter-kas2dq[00m:[01;34m~/Lab2Problems[00m$ ls
+[?2004lLab2_Log.txt  [0m[01;32ma.out[0m  [01;32mlab2Problem1[0m  lab2Problem1.c  [01;32mlab2Problem2[0m  lab2Problem2.c
+[?2004h(base) ]0;jovyan@jupyter-kas2dq: ~/Lab2Problems[01;32mjovyan@jupyter-kas2dq[00m:[01;34m~/Lab2Problems[00m$ gcc lab1Problem1[K[K[K[K[K[K[K[K[K[Kb2Problwm[K[Kem2 [K/c [K[K[K/[K.c -o lab2Problem2[1P[C[1P[1@m[1@1[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K1
+[?2004l[?2004h(base) ]0;jovyan@jupyter-kas2dq: ~/Lab2Problems[01;32mjovyan@jupyter-kas2dq[00m:[01;34m~/Lab2Problems[00m$ ./[K[Kgcc lab2Problem1.c -o lab2Problem1ls[Kgcc lab2Problem2 -o lab2Problem2.out[K2 3[K./a.outgcc lab2Problem1.c23[K./a.out[4P2 3./a.out23[Kgcc lab2Problem1.c[11P./a.out[4P2 3gcc lab2Problem2 -o lab2Problem2.outls[Kgcc lab2Problem1.c -o lab2Problem1[K./lan[Kb2Ptob[K[K[Kroblem1 5
+[?2004l5 5 5 5 5 5 5 5 5 
+5 4 4 4 4 4 4 4 5 
+5 4 3 3 3 3 3 4 5 
+5 4 3 2 2 2 3 4 5 
+5 4 3 2 1 2 3 4 5 
+5 4 3 2 2 2 3 4 5 
+5 4 3 3 3 3 3 4 5 
+5 4 4 4 4 4 4 4 5 
+5 5 5 5 5 5 5 5 5 
+[?2004h(base) ]0;jovyan@jupyter-kas2dq: ~/Lab2Problems[01;32mjovyan@jupyter-kas2dq[00m:[01;34m~/Lab2Problems[00m$ ./lab2Problem1 5[K3
+[?2004l3 3 3 3 3 
+3 2 2 2 3 
+3 2 1 2 3 
+3 2 2 2 3 
+3 3 3 3 3 
+[?2004h(base) ]0;jovyan@jupyter-kas2dq: ~/Lab2Problems[01;32mjovyan@jupyter-kas2dq[00m:[01;34m~/Lab2Problems[00m$ ./lab2Problem1 35[K9
+[?2004l9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 
+9 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 9 
+9 8 7 7 7 7 7 7 7 7 7 7 7 7 7 8 9 
+9 8 7 6 6 6 6 6 6 6 6 6 6 6 7 8 9 
+9 8 7 6 5 5 5 5 5 5 5 5 5 6 7 8 9 
+9 8 7 6 5 4 4 4 4 4 4 4 5 6 7 8 9 
+9 8 7 6 5 4 3 3 3 3 3 4 5 6 7 8 9 
+9 8 7 6 5 4 3 2 2 2 3 4 5 6 7 8 9 
+9 8 7 6 5 4 3 2 1 2 3 4 5 6 7 8 9 
+9 8 7 6 5 4 3 2 2 2 3 4 5 6 7 8 9 
+9 8 7 6 5 4 3 3 3 3 3 4 5 6 7 8 9 
+9 8 7 6 5 4 4 4 4 4 4 4 5 6 7 8 9 
+9 8 7 6 5 5 5 5 5 5 5 5 5 6 7 8 9 
+9 8 7 6 6 6 6 6 6 6 6 6 6 6 7 8 9 
+9 8 7 7 7 7 7 7 7 7 7 7 7 7 7 8 9 
+9 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 9 
+9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 
+[?2004h(base) ]0;jovyan@jupyter-kas2dq: ~/Lab2Problems[01;32mjovyan@jupyter-kas2dq[00m:[01;34m~/Lab2Problems[00m$ ./lab2Problem1 935gcc lab2Problem1.c -o lab2Problem1[1P[1@2[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P1[C[Km2
+[?2004l[?2004h(base) ]0;jovyan@jupyter-kas2dq: ~/Lab2Problems[01;32mjovyan@jupyter-kas2dq[00m:[01;34m~/Lab2Problems[00m$ gcc lab2Problem2.c -o lab2Problem2[Kgcc lab2Problem2.c -o lab2Problem2[18P./lab2Problem1 9[C[1P 92 9[C[C[K20 20
+[?2004lP (20 , 20) = 2432902008176640000
+C (20 , 20) = 1
+[?2004h(base) ]0;jovyan@jupyter-kas2dq: ~/Lab2Problems[01;32mjovyan@jupyter-kas2dq[00m:[01;34m~/Lab2Problems[00m$ ./lab2Problem2 20 20[K[K[K[K[K1 r[K2
+[?2004lError: r cannot be greater than n[?2004h(base) ]0;jovyan@jupyter-kas2dq: ~/Lab2Problems[01;32mjovyan@jupyter-kas2dq[00m:[01;34m~/Lab2Problems[00m$ ./lab2Problem2 1 2[K1
+[?2004lP (1 , 1) = 1
+C (1 , 1) = 1
+[?2004h(base) ]0;jovyan@jupyter-kas2dq: ~/Lab2Problems[01;32mjovyan@jupyter-kas2dq[00m:[01;34m~/Lab2Problems[00m$ ./lab2Problem2 1 1[K[K[K20 1
+[?2004lP (20 , 1) = 20
+C (20 , 1) = 20
+[?2004h(base) ]0;jovyan@jupyter-kas2dq: ~/Lab2Problems[01;32mjovyan@jupyter-kas2dq[00m:[01;34m~/Lab2Problems[00m$ ./lab2Problem2 20 1[K19
+[?2004lP (20 , 19) = 2432902008176640000
+C (20 , 19) = 20
+[?2004h(base) ]0;jovyan@jupyter-kas2dq: ~/Lab2Problems[01;32mjovyan@jupyter-kas2dq[00m:[01;34m~/Lab2Problems[00m$ ./lab2Problem2 20 19[K[K[K[K[K10 3
+[?2004lP (10 , 3) = 720
+C (10 , 3) = 120
+[?2004h(base) ]0;jovyan@jupyter-kas2dq: ~/Lab2Problems[01;32mjovyan@jupyter-kas2dq[00m:[01;34m~/Lab2Problems[00m$ exit
+[?2004lexit
+
+Script done on 2024-08-30 21:58:57-05:00 [COMMAND_EXIT_CODE="0"]

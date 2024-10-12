@@ -1,0 +1,32 @@
+Script started on 2024-09-07 15:28:36-05:00 [TERM="xterm-256color" TTY="/dev/pts/2" COLUMNS="94" LINES="35"]
+[?2004h(base) ]0;jovyan@jupyter-kas2dq: ~/lab3Problems[01;32mjovyan@jupyter-kas2dq[00m:[01;34m~/lab3Problems[00m$ exitSometimes I just really need a expresso[25P./lab3Problem2[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[K[Kls
+[?2004lLab3_Log.txt  [0m[01;32mlab3Problem1[0m  lab3Problem1.c  [01;32mlab3Problem2[0m  lab3Problem2.c
+[?2004h(base) ]0;jovyan@jupyter-kas2dq: ~/lab3Problems[01;32mjovyan@jupyter-kas2dq[00m:[01;34m~/lab3Problems[00m$ lsexitSometimes I just really need a expresso[25P./lab3Problem2gcc lab3Problem2.c -o lab3Problem2[20P./lab3Problem1gcc lab3Problem1.c -o lab3Problem1
+[?2004l[?2004h(base) ]0;jovyan@jupyter-kas2dq: ~/lab3Problems[01;32mjovyan@jupyter-kas2dq[00m:[01;34m~/lab3Problems[00m$ gcc lab3Problem1.c -o lab3Problem1ls[KexitSometimes I just really need a expresso[25P./lab3Problem2gcc lab3Problem2.c -o lab3Problem2[20P./lab3Problem1
+[?2004l10
+1 2 3 4 5 6 7 8 9 10
+10 9 8 7 6 5 4 3 2 1 
+[?2004h(base) ]0;jovyan@jupyter-kas2dq: ~/lab3Problems[01;32mjovyan@jupyter-kas2dq[00m:[01;34m~/lab3Problems[00m$ ./lab3Problem1
+[?2004l5 1    
+1 2 2 3 4 5
+5 4 3 2 1 
+[?2004h(base) ]0;jovyan@jupyter-kas2dq: ~/lab3Problems[01;32mjovyan@jupyter-kas2dq[00m:[01;34m~/lab3Problems[00m$ ./lab3Problem1gcc lab3Problem1.c -o lab3Problem1ls[KexitSometimes I just really need a expresso[25P./lab3Problem2gcc lab3Problem2.c -o lab3Problem2\[K
+[?2004l[?2004h(base) ]0;jovyan@jupyter-kas2dq: ~/lab3Problems[01;32mjovyan@jupyter-kas2dq[00m:[01;34m~/lab3Problems[00m$ gcc lab3Problem2.c -o lab3Problem2[20P./lab3Problem1gcc lab3Problem1.c -o lab3Problem1ls[KexitSometimes I just really need a expresso[25P./lab3Problem2
+[?2004lEnter a line of text: A quidk  ck ivory unicorn jumps over the lay   zy elephant
+
+Words starting with vowels:
+A
+ELEPHANT
+IVORY
+OVER
+UNICORN
+[?2004h(base) ]0;jovyan@jupyter-kas2dq: ~/lab3Problems[01;32mjovyan@jupyter-kas2dq[00m:[01;34m~/lab3Problems[00m$ ./lab3Problem2[K./lab3Problem2gcc lab3Problem2.c -o lab3Problem2[20P./lab3Problem2
+[?2004lEnter a line of text: Sometimes I really want to take a                               times i need a really one   lone g nap
+
+Words starting with vowels:
+A
+I
+[?2004h(base) ]0;jovyan@jupyter-kas2dq: ~/lab3Problems[01;32mjovyan@jupyter-kas2dq[00m:[01;34m~/lab3Problems[00m$ exit
+[?2004lexit
+
+Script done on 2024-09-07 15:30:45-05:00 [COMMAND_EXIT_CODE="0"]

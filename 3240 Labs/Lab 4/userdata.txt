@@ -1,0 +1,6 @@
+user1 password1 75000.00
+user2 password2 45950.75
+user3 password3 65230.75
+user4 password4 55550.75
+user5 password5 95255.75
+user6 password6 35255.75

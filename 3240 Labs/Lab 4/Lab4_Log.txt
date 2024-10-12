@@ -1,0 +1,27 @@
+Script started on 2024-09-12 20:39:29-05:00 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="143" LINES="51"]
+[?2004h(base) ]0;jovyan@jupyter-kas2dq: ~/Lab4Problem[01;32mjovyan@jupyter-kas2dq[00m:[01;34m~/Lab4Problem[00m$ la[Ks
+[?2004lLab4_Log.txt  [0m[01;32mlab4Problem1[0m  lab4Problem1.c  [01;32mlab4Problem2[0m  lab4Problem2.c  sample.txt  userdata.txt
+[?2004h(base) ]0;jovyan@jupyter-kas2dq: ~/Lab4Problem[01;32mjovyan@jupyter-kas2dq[00m:[01;34m~/Lab4Problem[00m$ [7m gcc lab4Problem1.c -o lab4Problem1[27m gcc lab4Problem1.c -o lab4Problem1
+[?2004l[?2004h(base) ]0;jovyan@jupyter-kas2dq: ~/Lab4Problem[01;32mjovyan@jupyter-kas2dq[00m:[01;34m~/Lab4Problem[00m$ [7m./lab4Problem1 sample.txt [27m./lab4Problem1 sample.txt 
+[?2004lThis is an
+ example t
+ext..This 
+is another
+ line.
+[?2004h(base) ]0;jovyan@jupyter-kas2dq: ~/Lab4Problem[01;32mjovyan@jupyter-kas2dq[00m:[01;34m~/Lab4Problem[00m$ [7m gcc lab4Problem2.c -o lab4Problem2[27m gcc lab4Problem2.c -o lab4Problem2
+[?2004l[?2004h(base) ]0;jovyan@jupyter-kas2dq: ~/Lab4Problem[01;32mjovyan@jupyter-kas2dq[00m:[01;34m~/Lab4Problem[00m$ [7m ./lab4Problem2 [27m ./lab4Problem2 
+[?2004lUsername: user1
+Password: password1
+The amount is: 75000.00
+[?2004h(base) ]0;jovyan@jupyter-kas2dq: ~/Lab4Problem[01;32mjovyan@jupyter-kas2dq[00m:[01;34m~/Lab4Problem[00m$ ./lab4Problem1 sample.txt ls[K./lab4Problem1 sample.txt [K./lab4Problem1 sample.txt [K./lab4Problem1 sample.txt ls[Kexit./lab4Problem2
+[?2004lUsername: user2
+Password: password2
+The amount is: 45950.75
+[?2004h(base) ]0;jovyan@jupyter-kas2dq: ~/Lab4Problem[01;32mjovyan@jupyter-kas2dq[00m:[01;34m~/Lab4Problem[00m$ ./lab4Problem2
+[?2004lUsername: user3
+Password: password3
+The amount is: 65230.75
+[?2004h(base) ]0;jovyan@jupyter-kas2dq: ~/Lab4Problem[01;32mjovyan@jupyter-kas2dq[00m:[01;34m~/Lab4Problem[00m$ exit
+[?2004lexit
+
+Script done on 2024-09-12 20:40:59-05:00 [COMMAND_EXIT_CODE="0"]

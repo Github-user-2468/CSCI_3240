@@ -1,0 +1,34 @@
+Script started on 2024-08-28 12:20:36-05:00 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="163" LINES="51"]
+[?2004h(base) ]0;jovyan@jupyter-kas2dq: ~/Lab1[01;32mjovyan@jupyter-kas2dq[00m:[01;34m~/Lab1[00m$ ls
+[?2004lLab1_Log,txt  [0m[01;32ma.out[0m  lab1Problem1.c
+[?2004h(base) ]0;jovyan@jupyter-kas2dq: ~/Lab1[01;32mjovyan@jupyter-kas2dq[00m:[01;34m~/Lab1[00m$ gcc lab1Problem1.c -o lab1Problem1.out
+[?2004l[?2004h(base) ]0;jovyan@jupyter-kas2dq: ~/Lab1[01;32mjovyan@jupyter-kas2dq[00m:[01;34m~/Lab1[00m$ ./lab1Probk[Klen1==[K[K[K[Km.out
+[?2004lbash: ./lab1Problem.out: No such file or directory
+[?2004h(base) ]0;jovyan@jupyter-kas2dq: ~/Lab1[01;32mjovyan@jupyter-kas2dq[00m:[01;34m~/Lab1[00m$ ./lab1Problem1.out
+[?2004lEnter starting temperature scale (K/C/F)F
+Enter target temperature scale (K/C/F)C
+Please enter a temperature: 100
+ 100.00° degrees is equivalent to 37.78° [?2004h(base) ]0;jovyan@jupyter-kas2dq: ~/Lab1[01;32mjovyan@jupyter-kas2dq[00m:[01;34m~/Lab1[00m$ ./lab1Problem1.out
+[?2004lEnter starting temperature scale (K/C/F)C
+Enter target temperature scale (K/C/F)F
+Please enter a temperature: 100
+ 100.00° degrees is equivalent to 212.00° [?2004h(base) ]0;jovyan@jupyter-kas2dq: ~/Lab1[01;32mjovyan@jupyter-kas2dq[00m:[01;34m~/Lab1[00m$ ./lab1Problem1.out
+[?2004lEnter starting temperature scale (K/C/F)C
+Enter target temperature scale (K/C/F)K
+Please enter a temperature: 100
+ 100.00° degrees is equivalent to 373.15° [?2004h(base) ]0;jovyan@jupyter-kas2dq: ~/Lab1[01;32mjovyan@jupyter-kas2dq[00m:[01;34m~/Lab1[00m$ ./lab1Problem1.out
+[?2004lEnter starting temperature scale (K/C/F)K
+Enter target temperature scale (K/C/F)C
+Please enter a temperature: 100
+ 100.00° degrees is equivalent to -173.15° [?2004h(base) ]0;jovyan@jupyter-kas2dq: ~/Lab1[01;32mjovyan@jupyter-kas2dq[00m:[01;34m~/Lab1[00m$ ./lab1Problem1.out
+[?2004lEnter starting temperature scale (K/C/F)F
+Enter target temperature scale (K/C/F)K
+Please enter a temperature: 100
+ 100.00° degrees is equivalent to 273.15° [?2004h(base) ]0;jovyan@jupyter-kas2dq: ~/Lab1[01;32mjovyan@jupyter-kas2dq[00m:[01;34m~/Lab1[00m$ ./lab1Problem1.out
+[?2004lEnter starting temperature scale (K/C/F)K
+Enter target temperature scale (K/C/F)F
+Please enter a temperature: 100
+ 100.00° degrees is equivalent to -279.67° [?2004h(base) ]0;jovyan@jupyter-kas2dq: ~/Lab1[01;32mjovyan@jupyter-kas2dq[00m:[01;34m~/Lab1[00m$ exit
+[?2004lexit
+
+Script done on 2024-08-28 12:23:11-05:00 [COMMAND_EXIT_CODE="0"]

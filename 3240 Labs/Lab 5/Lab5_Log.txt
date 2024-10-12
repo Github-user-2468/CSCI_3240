@@ -1,0 +1,14 @@
+Script started on 2024-09-26 13:19:11-05:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="143" LINES="51"]
+l[?2004h(base) ]0;jovyan@jupyter-kas2dq: ~/cs3240/Lab5Problems[01;32mjovyan@jupyter-kas2dq[00m:[01;34m~/cs3240/Lab5Problems[00m$ lls[K[Ks
+[?2004lLab5_Log.txt  [0m[01;32ma.out[0m  lab5Problem1.c  student.csv
+[?2004h(base) ]0;jovyan@jupyter-kas2dq: ~/cs3240/Lab5Problems[01;32mjovyan@jupyter-kas2dq[00m:[01;34m~/cs3240/Lab5Problems[00m$ [7mgcc lab5Problem1.c -o lab5Problem1[27mgcc lab5Problem1.c -o lab5Problem1
+[?2004l[?2004h(base) ]0;jovyan@jupyter-kas2dq: ~/cs3240/Lab5Problems[01;32mjovyan@jupyter-kas2dq[00m:[01;34m~/cs3240/Lab5Problems[00m$ [7m./lab5Problem1[27m./lab5Problem1
+[?2004lBon Jovi 345621 60.00
+John Doe 123456 60.00
+Bruce Wayne 100000 79.30
+Charles Babbage 121791 99.90
+Ada Lovelace 121915 100.00
+[?2004h(base) ]0;jovyan@jupyter-kas2dq: ~/cs3240/Lab5Problems[01;32mjovyan@jupyter-kas2dq[00m:[01;34m~/cs3240/Lab5Problems[00m$ [7mexit [27mexit 
+[?2004lexit
+
+Script done on 2024-09-26 13:19:48-05:00 [COMMAND_EXIT_CODE="0"]
